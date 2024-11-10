@@ -4,7 +4,7 @@
 
 ---
 
-![Project Overview](Project Hotel Booking Analysis Image .jpg)
+![Project Overview](https://github.com/RamiAbdullah-Prog/Booking-/blob/main/Project%20Hotel%20Booking%20Analysis%20Image%20.jpg)
 
 ### **Project Description:**
 
