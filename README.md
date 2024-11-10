@@ -59,6 +59,7 @@ The dataset provides detailed information on hotel bookings, including:
 
 ---
 
+
 ### **Analysis Steps:**
 
 ⓵ **Data Cleaning:**
