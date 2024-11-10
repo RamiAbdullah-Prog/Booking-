@@ -4,7 +4,7 @@
 
 ---
 
-![Alt text](Project Hotel Booking Analysis Image .jpg)
+![Project Overview](Project Hotel Booking Analysis Image .jpg)
 
 ### **Project Description:**
 
