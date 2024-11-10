@@ -79,9 +79,6 @@ The dataset provides detailed information on hotel bookings, including:
    3. How many bookings include a parking request?
    4. What are the booking patterns across different months of the year?
 
-⓹ **Data Preparation for Modeling:**
-   - Encode categorical features (e.g., hotel type, marketing channel) and normalize numerical data (e.g., lead time, ADR) for predictive modeling.
-
 ---
 
 ### **Required Libraries:**
